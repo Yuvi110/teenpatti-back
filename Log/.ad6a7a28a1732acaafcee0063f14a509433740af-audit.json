@@ -1,0 +1,44 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "Log/.ad6a7a28a1732acaafcee0063f14a509433740af-audit.json",
+    "files": [
+        {
+            "date": 1623301281096,
+            "name": "Log/game-10-06-2021.log",
+            "hash": "43a10cde2295fb3f1fb9554ab938000c"
+        },
+        {
+            "date": 1623490240689,
+            "name": "Log/game-12-06-2021.log",
+            "hash": "ea0221fa44d236ef612c347a75422897"
+        },
+        {
+            "date": 1623567850214,
+            "name": "Log/game-13-06-2021.log",
+            "hash": "3d62c5cf6c8d317620f2f880b0fc1767"
+        },
+        {
+            "date": 1623651623036,
+            "name": "Log/game-14-06-2021.log",
+            "hash": "fe578595b68c5cf1f3ff5a5a794501ef"
+        },
+        {
+            "date": 1623815340021,
+            "name": "Log/game-16-06-2021.log",
+            "hash": "1264cd1136300e5836989fe9555b9fa1"
+        },
+        {
+            "date": 1624102181918,
+            "name": "Log/game-19-06-2021.log",
+            "hash": "1e289f526416fa6727b067e7b1f0d9eb"
+        },
+        {
+            "date": 1624420675242,
+            "name": "Log/game-23-06-2021.log",
+            "hash": "90588503bd5af7cc96f0455d130b4b14"
+        }
+    ]
+}
