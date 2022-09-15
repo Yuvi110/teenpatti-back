@@ -1,5 +1,3 @@
-'use strict';
+"use strict";
 
-require('./Boot/Server');
-
- 
+require("./Boot/Server");
